@@ -38,4 +38,4 @@
 ---
 
 ## 🌐 更多信息与联系
-如需获取更多学习资源或交流想法，请访问 [我的网站](https://www.bumilu.com) 或邮箱联系：dizhiav@gmail.com
+如需获取更多学习资源或交流想法，请访问 [我的网站](https://www.bumilu.org) 或邮箱联系：dizhiav@gmail.com
